@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Cypress framework for web automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-Indhumathi/cypress-automation.git"
+  },
+  "author": "Indhumathi K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-Indhumathi/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/its-Indhumathi/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
